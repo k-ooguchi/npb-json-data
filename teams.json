@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "読売ジャイアンツ",
+    "shortName": "巨人",
+    "logoUrl": "https://example.com/giants_logo.png",
+    "players": [
+      {
+        "id": 101,
+        "name": "岡本 和真",
+        "position": "内野手",
+        "stats": [
+          { "year": 2023, "avg": 0.294, "homeRuns": 28, "rbi": 80 },
+          { "year": 2022, "avg": 0.265, "homeRuns": 31, "rbi": 89 }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "坂本 勇人",
+        "position": "内野手",
+        "stats": [
+          { "year": 2023, "avg": 0.250, "homeRuns": 12, "rbi": 45 },
+          { "year": 2022, "avg": 0.275, "homeRuns": 15, "rbi": 58 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "阪神タイガース",
+    "shortName": "阪神",
+    "logoUrl": "https://example.com/tigers_logo.png",
+    "players": [
+      {
+        "id": 201,
+        "name": "佐藤 輝明",
+        "position": "外野手",
+        "stats": [
+          { "year": 2023, "avg": 0.238, "homeRuns": 24, "rbi": 70 },
+          { "year": 2022, "avg": 0.256, "homeRuns": 20, "rbi": 75 }
+        ]
+      }
+    ]
+  }
+]
