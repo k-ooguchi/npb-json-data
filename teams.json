@@ -3,7 +3,7 @@
     "id": 1,
     "name": "読売ジャイアンツ",
     "shortName": "巨人",
-    "logoUrl": "https://example.com/giants_logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/k-ooguchi/npb-json-data/main/team_logo_giants.png",
     "players": [
       {
         "id": 101,
@@ -29,7 +29,7 @@
     "id": 2,
     "name": "阪神タイガース",
     "shortName": "阪神",
-    "logoUrl": "https://example.com/tigers_logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/k-ooguchi/npb-json-data/main/team_logo_tigers.png",
     "players": [
       {
         "id": 201,
